@@ -6,13 +6,11 @@ body{
     color: #fff;
     background-color: #bc557b;
     font-family: Arial, Helvetica, sans-serif;
-    padding-top: 65px;
 }
 #main-content section{
   color:black;
   margin-top: 30px;
   margin-bottom: 30px;
-  padding-top: 60px;
   height: 700px;
 
 }
